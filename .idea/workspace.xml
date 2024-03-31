@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcb7c8bd-3e29-4c03-937d-1ea33672479e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestBuisnessTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestChooseDirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestEmployerReviews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestFreeMaterials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestHelpGetHighEducation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestMainNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestTeachITInPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestTeachWhoAreHired.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2eRuYNy7Qw3wldPizEWO5tYoUIe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.FirstcoursTest.executor": "Run",
+    "JUnit.MainNavigation.executor": "Run",
+    "JUnit.MainNavigation.testGetAllCourses.executor": "Run",
+    "JUnit.MainNavigation.testGetAllFreeMaterials.executor": "Run",
+    "JUnit.MainNavigation.testMoveToMedia.executor": "Run",
+    "JUnit.TeachITInPractice.getAICourses.executor": "Run",
+    "JUnit.TeachITInPractice.getCourse.executor": "Run",
+    "JUnit.TestBuisnessTasks.WhiteHacker.executor": "Run",
+    "JUnit.TestChooseDirection.ITxray.executor": "Run",
+    "JUnit.TestEmployerReviews.SwipeEmployerReviews.executor": "Run",
+    "JUnit.TestFreeMaterials.testGetFreeMobileGide.executor": "Run",
+    "JUnit.TestHelpGetHighEducation.executor": "Run",
+    "JUnit.TestHelpGetHighEducation.getHighEducation.executor": "Run",
+    "JUnit.TestSF.executor": "Run",
+    "JUnit.TestSF.sf1.executor": "Run",
+    "JUnit.TestSF.testGetAllCorporateCourses.executor": "Run",
+    "JUnit.TestSF.testGetAllCourses.executor": "Run",
+    "JUnit.TestSF.testGetAllFreeMaterials.executor": "Run",
+    "JUnit.TestSF.testHomePageTitle.executor": "Run",
+    "JUnit.TestSF.testMoveToCareeCenter.executor": "Run",
+    "JUnit.TestSF.testMoveToCareerCenter.executor": "Run",
+    "JUnit.TestSF.testMoveToContacts.executor": "Run",
+    "JUnit.TestSF.testMoveToMedia.executor": "Run",
+    "JUnit.TestTeachWhoAreHired.executor": "Run",
+    "JUnit.TestTeachWhoAreHired.getDesignCourses.executor": "Run",
+    "JUnit.TestTeachWhoAreHired.getFirst.executor": "Run",
+    "JUnit.TestTeachWhoAreHired.getHighEducation.executor": "Run",
+    "JUnit.TestTeachWhoAreHired.getPythonCourses.executor": "Run",
+    "JUnit.java in untitled1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/untitled1",
+    "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/untitled1/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.java in untitled1">
+    <configuration name="TestBuisnessTasks.WhiteHacker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBuisnessTasks" />
+      <option name="METHOD_NAME" value="WhiteHacker" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChooseDirection.testITxray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestChooseDirection" />
+      <option name="METHOD_NAME" value="testITxray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEmployerReviews.SwipeEmployerReviews" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestEmployerReviews" />
+      <option name="METHOD_NAME" value="SwipeEmployerReviews" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFreeMaterials.testGetFreeMobileGide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFreeMaterials" />
+      <option name="METHOD_NAME" value="testGetFreeMobileGide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in untitled1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="FinalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="FinalProject" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.java in untitled1" />
+        <item itemvalue="JUnit.TestFreeMaterials.testGetFreeMobileGide" />
+        <item itemvalue="JUnit.TestEmployerReviews.SwipeEmployerReviews" />
+        <item itemvalue="JUnit.TestBuisnessTasks.WhiteHacker" />
+        <item itemvalue="JUnit.TestChooseDirection.testITxray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcb7c8bd-3e29-4c03-937d-1ea33672479e" name="Changes" comment="" />
+      <created>1711879762656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711879762656</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../All/Downloads/1Test.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../All/Downloads/1Test.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
